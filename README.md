@@ -4,7 +4,7 @@
 HOW TO USE
 1.Download the files in your computer.Make sure to save the files under the same folder in the XAMPP FOLDER under htdocs.
 2.create the database using the email.sql file. Or create a database with a table named emails and three columns:ID,Name and Email.
-3.open the quickstart.php file in the browser.
+3.open the quickstart.php file in the browser.Ensure that you are connected to the internet. 
 4.click the "Import gmail data" button that you will see on your screen.It will take you to take you to another screen.
 5.If you want to view the names and email addresses click "here".
 6.You will be given the option of choosing the email that you want to use.
