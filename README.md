@@ -2,7 +2,7 @@
 122231-ICS 3104 Internet App cat makeup
 
 HOW TO USE
-1.Download the files in your computer.
+1.Download the files in your computer.Make sure to save the files under the same folder in the XAMPP FOLDER under htdocs.
 2.create the database using the email.sql file. Or create a database with a table named emails and three columns:ID,Name and Email.
 3.open the quickstart.php file in the browser.
 4.click the "Import gmail data" button that you will see on your screen.It will take you to take you to another screen.
