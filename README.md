@@ -2,14 +2,14 @@
 122231-ICS 3104 Internet App cat makeup
 
 HOW TO USE
-Download the files in your computer.
-create the database using the email.sql file.
-open the quickstart.php file in the browser.
-click the "Import gmail data" button that its going to take you to another screen.
-If you want to view the names and email addresses click "here".
-You will be given the option of chossing the email that you want to use.
-After accepting what email to use you will be able to view the names and the email addresses on your screen.
-When you are done you can log out.
+1.Download the files in your computer.
+2.create the database using the email.sql file. Or create a database with a table named emails and three columns:ID,Name and Email.
+3.open the quickstart.php file in the browser.
+4.click the "Import gmail data" button that you will see on your screen.It will take you to take you to another screen.
+5.If you want to view the names and email addresses click "here".
+6.You will be given the option of choosing the email that you want to use.
+7.After accepting what email to use you will be able to view the names and the email addresses on your screen.
+8.When you are done you can log out.
 
 
 STEPS I FOLLOWED
